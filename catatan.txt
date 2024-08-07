@@ -1,0 +1,16 @@
+akun untuk login : 
+username : admin
+password : admin123
+
+link http://localhost/serba-cantik
+
+tambah kategori, pada menu 
+master>kategori
+
+tambah barang, pada menu
+master>barang>insert barang
+
+jika ingin transaksi pada menu 
+penjualan
+
+noted : supplier belum ada.
